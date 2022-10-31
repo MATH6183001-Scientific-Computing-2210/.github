@@ -26,3 +26,7 @@ A collection of tutorials and codes for MATH6183001 at BINUS International.
 
     [scripting by using make and Makefile](https://github.com/MATH6183001-Scientific-Computing-2210/basic-compilation-using-gcc/tree/main/03-makefile) --> [simple test and benchmarking](https://github.com/MATH6183001-Scientific-Computing-2210/basic-c/tree/main/03-simple-benchmark)
     
+3. Representing Vector and Matrix
+    
+    (heap vs. stack)[https://github.com/MATH6183001-Scientific-Computing-2210/basic-c/tree/main/05-heap-vs-stack] --> [matrix info](https://github.com/MATH6183001-Scientific-Computing-2210/basic-c/tree/main/06-matrix-intro) --> [matrix mult](https://github.com/MATH6183001-Scientific-Computing-2210/basic-c/tree/main/07-matrix-vector-mult)
+    
